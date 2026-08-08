@@ -99,7 +99,7 @@ pip install -r requirements.txt
 Open:
 
 ```text
-Task-03_Markov_Chain_Text_Generation.ipynb
+Markov_Chain_Text_Generation.ipynb
 ```
 
 The notebook can be executed using Google Colab or Jupyter Notebook.
